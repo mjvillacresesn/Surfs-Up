@@ -1,5 +1,3 @@
-### View [surfing.py](https://github.com/mjvillacresesn/Surfs-Up/blob/master/surfing.py) !
-
 # WELCOME TO SURF'S UP! 
 
 ## Please plug in the browser any of the available routes: 
@@ -19,3 +17,9 @@
 
 
 MJV
+
+
+------
+* Flask Visual -[ Browser Display ](https://github.com/mjvillacresesn/Surfs-Up/blob/master/Flask.md)
+* Flask - [ Python ](https://github.com/mjvillacresesn/Surfs-Up/blob/master/surfing.py)
+* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Surfs-Up/blob/master/climate_analysis.ipynb)
