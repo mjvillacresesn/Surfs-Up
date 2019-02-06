@@ -23,4 +23,5 @@
 * Use the calc_temps function to calculate the min, avg, and max temperatures for your trip 
 * Plot the min, avg, and max temperature from your previous query as a bar chart.
 
-### Rainfall per Weather Station
+### 4. Rainfall per Weather Station
+* Design a query to calculate the total amount of precipitaion for the most popular station
