@@ -17,6 +17,6 @@
 * Design a query to retrieve the last 12 months of temperature observation data (tobs).
 * Filter by the station with the highest number of observations.
 
-### 3.Temperature Analysis
+### 3.Temperature Analysis of my Trip : 12-27-2015 to 01-10-2016
 * Use the calc_temps function to calculate the min, avg, and max temperatures for your trip 
 * Plot the min, avg, and max temperature from your previous query as a bar chart.
