@@ -20,3 +20,5 @@
 ### 3. Temperature Analysis of my Trip : 12-27-2015 to 01-10-2016
 * Use the calc_temps function to calculate the min, avg, and max temperatures for your trip 
 * Plot the min, avg, and max temperature from your previous query as a bar chart.
+
+### Rainfall per Weather Station
