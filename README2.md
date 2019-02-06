@@ -1,5 +1,4 @@
-Use 
-
+### View [surfing.py](https://github.com/mjvillacresesn/Surfs-Up/blob/master/surfing.py) !
 
 # WELCOME TO SURF'S UP! 
 
